@@ -1,0 +1,92 @@
+Run this command on command prompt (Windows)
+ 
+pip install Django
+
+
+
+django-admin startproject my_first_project
+
+
+http://127.0.0.1:8000
+
+how to install Django
+=====================
+Run this command:
+pip install Django
+
+ 
+
+Verify
+======
+pip freeze
+
+ 
+
+Start project
+=============
+django-admin startproject my_first_projectabc.com
+
+          or
+==============================
+python -m django startproject social_site
+==============================
+
+
+ 
+
+Run Django server
+=================
+
+
+ python manage.py runserver
+
+Run Migrations
+==============
+python manage.py makemigration
+
+python manage.py migrate
+
+ 
+
+Create super user
+=================
+python manage.py createsuperuser
+
+464922380
+
+
+python -m venv venv
+venv\Scripts\activate
+Somendra Meena15:23
+pip install django
+django-admin startproject myproject
+
+
+Github
+==========================================
+for clone:::
+-------------
+git clone ___
+
+
+git config --global user.name "your name"
+git config --global user.email "your @mail"
+==
+pwd
+dir   (folder name |manag.py)
+====
+git init -b main
+git add . (add all file)
+git commit -m "first commit"  (first time commit)
+git remote add origin "___HTTPS LINK___"
+git push origin main
+=========
+git checkout -b new (check out and create)
+git branch -d main  (for delete old)
+git checkout -b main
+
+==no work then==
+git checkout new
+git push origin new
+=====in vs code======
+Click on source control then click on + -->

@@ -1,0 +1,52 @@
+Run this command on command prompt (Windows)
+ 
+pip install Django
+
+
+
+django-admin startproject my_first_project
+
+
+http://127.0.0.1:8000
+
+how to install Django
+=====================
+Run this command:
+pip install Django
+
+ 
+
+Verify
+======
+pip freeze
+
+ 
+
+Start project
+=============
+django-admin startproject my_first_projectabc.com
+
+ 
+
+Run Django server
+=================
+
+
+ python manage.py runserver
+
+Run Migrations
+==============
+python manage.py migrate
+
+ 
+
+Create super user
+=================
+python manage.py createsuperuser
+
+
+python -m venv venv
+venv\Scripts\activate
+Somendra Meena15:23
+pip install django
+django-admin startproject myproject
